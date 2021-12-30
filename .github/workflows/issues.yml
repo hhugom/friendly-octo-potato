@@ -1,0 +1,16 @@
+name: Move assigned pull requests into To do
+
+on:
+  issues:
+    types: [assigned]
+
+jobs:
+  automate-project-columns:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: hmarr/debug-action@v2.0.1
+      - uses: alex-page/github-project-automation-plus@v0.8.1
+        with:
+          project: Old Backlog
+          column: In Progress
+          repo-token: ${{ secrets.MY_TOKEN }}
