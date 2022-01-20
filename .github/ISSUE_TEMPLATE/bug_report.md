@@ -9,16 +9,17 @@ assignees: ''
 
 **Comportement attendu**
 
-
-**Description du bug**
+**Comportement observé**
 
 **To Reproduce**
+
 Étapes de reproduction:
 1. Aller à '...'
 2. Cliquer sur'....'
 3. Constatation du bug
 
 **Screenshots**
+
 Si possible ajouter un screenshot qui illustre le bug constaté
 
 **Informations complémentaires**
