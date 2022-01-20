@@ -2,7 +2,7 @@
 name: Fonctionnalité ou Amélioration
 about: Fonctionnalité ou amélioration à developper sur un des projets
 title: ''
-labels: ''
+labels: Epic
 assignees: ''
 
 ---
